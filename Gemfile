@@ -1,2 +1,3 @@
 source :gemcutter
-gem 'sinatra', '0.9.4'
+gem 'rails' ,'~> 2.3.5', :require => nil
+gem 'sqlite3-ruby', :require => 'sqllite'
